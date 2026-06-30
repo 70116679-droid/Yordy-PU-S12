@@ -1,0 +1,45 @@
+Dependencias de Composer
+
+/vendor/
+
+Archivos de configuración del sistema
+
+.DS_Store
+Thumbs.db
+
+Archivos de IDE
+
+/.idea/
+/.vscode/
+
+Archivos de NetBeans
+
+/nbproject/private/
+/nbproject/private.properties
+/nbproject/configs/
+
+Logs
+
+*.log
+
+Cache
+
+.cache/
+
+Variables de entorno
+
+.env
+.env.local
+
+PHPUnit
+
+.phpunit.result.cache
+
+Archivos temporales
+
+*.tmp
+*.temp
+
+Archivos de respaldo
+
+*.bak
